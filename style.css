@@ -1,0 +1,32 @@
+img{
+    height: 250px;
+  }
+  
+  body{
+    background-color: tomato;
+  }
+  
+  ol{
+    color: white;
+    text-align: center;
+  }
+  h1{
+    background-color: white;
+    color: tomato;
+    text-align: center;
+  }
+  
+  h3{
+    text-align: center;
+  }
+  
+  div{
+    background-color: salmon;
+  }
+  
+  .games{
+      background-color: dodgerblue;
+  }
+  .games h3{
+    background-color: white;
+  }
